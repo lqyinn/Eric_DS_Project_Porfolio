@@ -12,7 +12,7 @@
 | [AB Testing](https://github.com/lqyinn/Eric_DS_Project_Porfolio/tree/main/ABtest) | [Link](https://drive.google.com/drive/folders/1BUx-tWf8rn2cTpcAkfoC0dzP4D-ES7QP?usp=drive_link) |
 | [Cashflow Forecasting](https://github.com/lqyinn/Eric_DS_Project_Porfolio/tree/main/CashFlow_Forecasting) | [Link](https://drive.google.com/drive/folders/1Y0ts5BbmGLXMe9WSRl_d-LI45MWEFa4o?usp=drive_link) |
 | [News RecSys](https://github.com/lqyinn/Eric_DS_Project_Porfolio/tree/main/recommender_system) | [Link](https://drive.google.com/drive/folders/1LrT2WKYZksDkVkp710fpFRZVIwu9PAxf?usp=drive_link) |
-
+| [NLP]() | [Link]() |
 
 
 ## Unveiling Business Insights - A Comprehensive Data Analysis of Yelp Dataset ![image](https://github.com/datoujinggzj/DS_Project_Portfolio/assets/99417740/b791ea9e-195e-4107-b665-49d060becf52)
